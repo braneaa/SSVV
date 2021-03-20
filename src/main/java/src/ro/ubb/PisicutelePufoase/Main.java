@@ -19,7 +19,6 @@ import java.io.IOException;
 
 public class Main {
     public static void main(String[] args) throws IOException, ValidatorException {
-        //System.out.println("Hello World!");
         StudentValidator vs=new StudentValidator();
         TemaLabValidator vt=new TemaLabValidator();
         NotaValidator vn=new NotaValidator();
