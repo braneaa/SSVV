@@ -1,3 +1,4 @@
+package ro.ubbcluj.PisicutelePufoase;
 import org.junit.Test;
 
 import static junit.framework.TestCase.assertFalse;
